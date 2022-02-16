@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information regarding mathematical statistics,
   assignment 4.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-655-mathematical-statistics-spring-2016/26b35f405e88968eae15d49fdeb15c8a_MIT18_655S16_ProblemSet_4.pdf
+file: /media/courses/18-655-mathematical-statistics-spring-2016/26b35f405e88968eae15d49fdeb15c8a_MIT18_655S16_ProblemSet_4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Mathematical Statistics Assignment 4
 uid: 26b35f40-5e88-968e-ae15-d49fdeb15c8a

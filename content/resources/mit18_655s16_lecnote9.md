@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information regarding mathematical statistics,
   lecture 9 methods of estimation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-655-mathematical-statistics-spring-2016/6006b0a6421c1b9a0223f32ebae9d39e_MIT18_655S16_LecNote9.pdf
+file: /media/courses/18-655-mathematical-statistics-spring-2016/6006b0a6421c1b9a0223f32ebae9d39e_MIT18_655S16_LecNote9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Mathematical Statistics, Lecture 9 Methods of Estimation
 uid: 6006b0a6-421c-1b9a-0223-f32ebae9d39e
