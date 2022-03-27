@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ff41e173-82c3-d8bb-8931-48496b8e1ab5
 resourcetype: Document
 title: 'Mathematical Statistics, Lecture 16 Asymptotics: Consistency and Delta Method'
 uid: 2ca793c6-ea6c-4a6f-ece3-9c0da3440ba2

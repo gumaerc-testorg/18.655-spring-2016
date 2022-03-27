@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ff41e173-82c3-d8bb-8931-48496b8e1ab5
 resourcetype: Document
 title: Mathematical Statistics, Lecture 12 Minimax Procedures
 uid: c5b18568-17a8-361f-c718-9c13bc36dbb7

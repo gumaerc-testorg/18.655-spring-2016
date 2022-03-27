@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 12d71df0-17f0-20fa-181d-9f69447fe6b0
 resourcetype: Document
 title: Mathematical Statistics Assignment 9
 uid: 168771d2-b7c3-35d1-9d7e-622056ccc0fb

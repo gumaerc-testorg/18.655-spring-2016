@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ff41e173-82c3-d8bb-8931-48496b8e1ab5
 resourcetype: Document
 title: Mathematical Statistics, Lecture 13 Unbiased Estimation and Risk Inequalities
 uid: 9e315224-8b9f-79ea-4d5c-faae9f31c21b

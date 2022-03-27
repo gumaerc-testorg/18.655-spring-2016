@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ff41e173-82c3-d8bb-8931-48496b8e1ab5
 resourcetype: Document
 title: Mathematical Statistics, Lecture 6 Sufficiency
 uid: bbbca14a-2009-e47a-dd8c-7ea2a49daa41

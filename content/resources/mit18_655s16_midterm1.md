@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 9bdf5800-7cc0-b050-c999-dc8686c93b2c
 resourcetype: Document
 title: Mathematical Statistics Mid-term Exam 1
 uid: 4f44e854-c40d-297b-f919-37ccc2a2f3c1

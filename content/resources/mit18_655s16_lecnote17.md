@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ff41e173-82c3-d8bb-8931-48496b8e1ab5
 resourcetype: Document
 title: 'Mathematical Statistics, Lecture 17 Asymptotics II: Limiting Distributions'
 uid: 7534b5ea-cdc9-efa1-36fa-0422447e13ae

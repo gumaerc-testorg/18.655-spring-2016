@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ff41e173-82c3-d8bb-8931-48496b8e1ab5
 resourcetype: Document
 title: Mathematical Statistics, Lecture 4 Decision Theoretic Framework
 uid: 413f5097-d687-e264-07e4-634a374ed375
