@@ -6,6 +6,7 @@ file: /courses/18-655-mathematical-statistics-spring-2016/933ad3daffd2c67c2c6355
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Mathematical Statistics, Lecture 2 Statistical Models
 uid: 933ad3da-ffd2-c67c-2c63-55f3260ad594
 ---
 This resource contains information regarding mathematical statistics, lecture 2 statistical models.
-

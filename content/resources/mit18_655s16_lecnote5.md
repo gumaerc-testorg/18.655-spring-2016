@@ -6,6 +6,7 @@ file: /courses/18-655-mathematical-statistics-spring-2016/51a26b97418eb580363b73
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Mathematical Statistics, Lecture 5 Prediction
 uid: 51a26b97-418e-b580-363b-733ee2b6da25
 ---
 This resource contains information regarding mathematical statistics, lecture 5 prediction.
-

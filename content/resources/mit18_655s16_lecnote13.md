@@ -6,6 +6,7 @@ file: /courses/18-655-mathematical-statistics-spring-2016/9e3152248b9f79ea4d5cfa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Mathematical Statistics, Lecture 13 Unbiased Estimation and Risk Inequali
 uid: 9e315224-8b9f-79ea-4d5c-faae9f31c21b
 ---
 This resource contains information regarding mathematical statistics, lecture 13 unbiased estimation and risk inequalities.
-

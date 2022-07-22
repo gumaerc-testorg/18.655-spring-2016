@@ -6,6 +6,7 @@ file: /courses/18-655-mathematical-statistics-spring-2016/26c63735564a35de8aa1e4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Mathematical Statistics, Lecture 11 Bayes Procedures
 uid: 26c63735-564a-35de-8aa1-e4e5575bb68e
 ---
 This resource contains information regarding mathematical statistics, lecture 11 Bayes procedures.
-

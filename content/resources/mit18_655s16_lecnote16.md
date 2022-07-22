@@ -6,6 +6,7 @@ file: /courses/18-655-mathematical-statistics-spring-2016/2ca793c6ea6c4a6fece39c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Mathematical Statistics, Lecture 16 Asymptotics: Consistency and Delta M
 uid: 2ca793c6-ea6c-4a6f-ece3-9c0da3440ba2
 ---
 This resource contains information regarding mathematical statistics, lecture 16 asymptotics: Consistency and delta method.
-

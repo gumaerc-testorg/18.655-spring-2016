@@ -6,6 +6,7 @@ file: /courses/18-655-mathematical-statistics-spring-2016/58079ff0910ebadbbec30f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Mathematical Statistics, Lecture 7 Exponential Families
 uid: 58079ff0-910e-badb-bec3-0ff29b49c14d
 ---
 This resource contains information regarding mathematical statistics, lecture 7 exponential families.
-

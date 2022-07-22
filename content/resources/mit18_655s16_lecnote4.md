@@ -6,6 +6,7 @@ file: /courses/18-655-mathematical-statistics-spring-2016/413f5097d687e26407e463
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Mathematical Statistics, Lecture 4 Decision Theoretic Framework
 uid: 413f5097-d687-e264-07e4-634a374ed375
 ---
 This resource contains information regarding mathematical statistics, lecture 4 decision theoretic framework.
-

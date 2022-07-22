@@ -6,6 +6,7 @@ file: /courses/18-655-mathematical-statistics-spring-2016/7534b5eacdc9efa136fa04
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Mathematical Statistics, Lecture 17 Asymptotics II: Limiting Distributio
 uid: 7534b5ea-cdc9-efa1-36fa-0422447e13ae
 ---
 This resource contains information regarding mathematical statistics, lecture 17 asymptotics II: Limiting distributions.
-

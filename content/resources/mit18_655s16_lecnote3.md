@@ -6,6 +6,7 @@ file: /courses/18-655-mathematical-statistics-spring-2016/9c7b5d5cfb5ad8127c4b9c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Mathematical Statistics, Lecture 3 Bayesian Models
 uid: 9c7b5d5c-fb5a-d812-7c4b-9c1a0442f29b
 ---
 This resource contains information regarding mathematical statistics, lecture 3 Bayesian models.
-

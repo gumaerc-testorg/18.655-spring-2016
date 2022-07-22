@@ -6,6 +6,7 @@ file: /courses/18-655-mathematical-statistics-spring-2016/b47412718c7d216ccded16
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Mathematical Statistics Assignment 1
 uid: b4741271-8c7d-216c-cded-16b89ff664cd
 ---
 This resource contains information regarding mathematical statistics, assignment 1.
-

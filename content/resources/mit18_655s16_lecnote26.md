@@ -6,6 +6,7 @@ file: /courses/18-655-mathematical-statistics-spring-2016/dbd02ecbe06ab8a637f821
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Mathematical Statistics, Lecture 26 Case Study: Applying Generalized Lin
 uid: dbd02ecb-e06a-b8a6-37f8-211101d4f95a
 ---
 This resource contains information regarding mathematical statistics, lecture 26 case study: Applying generalized linear models.
-

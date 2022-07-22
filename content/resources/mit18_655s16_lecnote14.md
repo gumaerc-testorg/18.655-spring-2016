@@ -6,6 +6,7 @@ file: /courses/18-655-mathematical-statistics-spring-2016/690a82dcf7f16219b3aba3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Mathematical Statistics, Lecture 14 Convergence of Random Variables Proba
 uid: 690a82dc-f7f1-6219-b3ab-a340e95c1c95
 ---
 This resource contains information regarding mathematical statistics, lecture 14 convergence of random variables probability inequalities.
-
