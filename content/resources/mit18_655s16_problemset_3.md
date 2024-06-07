@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding mathematical statistics,
   assignment 3.
 file: /courses/18-655-mathematical-statistics-spring-2016/b48c8163f7463f5f3931124bd3b12976_MIT18_655S16_ProblemSet_3.pdf
+file_size: 141861
 file_type: application/pdf
 learning_resource_types:
 - Assignments
