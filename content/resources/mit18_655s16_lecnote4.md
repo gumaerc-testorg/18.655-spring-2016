@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding mathematical statistics,
   lecture 4 decision theoretic framework.
-file: /courses/18-655-mathematical-statistics-spring-2016/413f5097d687e26407e4634a374ed375_MIT18_655S16_LecNote4.pdf
+file: /ol-ocw-studio-app/courses/18-655-mathematical-statistics-spring-2016/413f5097d687e26407e4634a374ed375_MIT18_655S16_LecNote4.pdf
 file_size: 687286
 file_type: application/pdf
 learning_resource_types:

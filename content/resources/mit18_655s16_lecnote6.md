@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding mathematical statistics,
   lecture 6 sufficiency.
-file: /courses/18-655-mathematical-statistics-spring-2016/bbbca14a2009e47add8c7ea2a49daa41_MIT18_655S16_LecNote6.pdf
+file: /ol-ocw-studio-app/courses/18-655-mathematical-statistics-spring-2016/bbbca14a2009e47add8c7ea2a49daa41_MIT18_655S16_LecNote6.pdf
 file_size: 575744
 file_type: application/pdf
 learning_resource_types:
