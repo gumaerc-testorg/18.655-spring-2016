@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding mathematical statistics,
   lecture 10 methods of estimation II.
-file: /courses/18-655-mathematical-statistics-spring-2016/0049f07ae6b39d4a3fe02f6a4d8a3031_MIT18_655S16_LecNote10.pdf
+file: /ol-ocw-studio-app/courses/18-655-mathematical-statistics-spring-2016/0049f07ae6b39d4a3fe02f6a4d8a3031_MIT18_655S16_LecNote10.pdf
 file_size: 943714
 file_type: application/pdf
 learning_resource_types:
