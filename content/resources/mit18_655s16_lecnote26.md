@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding mathematical statistics,
   lecture 26 case study: Applying generalized linear models.'
-file: /ol-ocw-studio-app/courses/18-655-mathematical-statistics-spring-2016/dbd02ecbe06ab8a637f8211101d4f95a_MIT18_655S16_LecNote26.pdf
+file: /courses/18-655-mathematical-statistics-spring-2016/dbd02ecbe06ab8a637f8211101d4f95a_MIT18_655S16_LecNote26.pdf
 file_size: 421343
 file_type: application/pdf
 learning_resource_types:

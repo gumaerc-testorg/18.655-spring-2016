@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding mathematical statistics,
   lecture 18 asymptotics III: Bayes inference and large-sample tests.'
-file: /ol-ocw-studio-app/courses/18-655-mathematical-statistics-spring-2016/10f901af96abbd12cd3e21a6b1e2a674_MIT18_655S16_LecNote18.pdf
+file: /courses/18-655-mathematical-statistics-spring-2016/10f901af96abbd12cd3e21a6b1e2a674_MIT18_655S16_LecNote18.pdf
 file_size: 658127
 file_type: application/pdf
 learning_resource_types:

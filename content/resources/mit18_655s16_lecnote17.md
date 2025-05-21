@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding mathematical statistics,
   lecture 17 asymptotics II: Limiting distributions.'
-file: /ol-ocw-studio-app/courses/18-655-mathematical-statistics-spring-2016/7534b5eacdc9efa136fa0422447e13ae_MIT18_655S16_LecNote17.pdf
+file: /courses/18-655-mathematical-statistics-spring-2016/7534b5eacdc9efa136fa0422447e13ae_MIT18_655S16_LecNote17.pdf
 file_size: 595780
 file_type: application/pdf
 learning_resource_types:
