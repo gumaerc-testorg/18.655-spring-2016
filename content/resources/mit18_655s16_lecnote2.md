@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding mathematical statistics,
   lecture 2 statistical models.
-file: /ol-ocw-studio-app/courses/18-655-mathematical-statistics-spring-2016/933ad3daffd2c67c2c6355f3260ad594_MIT18_655S16_LecNote2.pdf
+file: /courses/18-655-mathematical-statistics-spring-2016/933ad3daffd2c67c2c6355f3260ad594_MIT18_655S16_LecNote2.pdf
 file_size: 614977
 file_type: application/pdf
 learning_resource_types:
