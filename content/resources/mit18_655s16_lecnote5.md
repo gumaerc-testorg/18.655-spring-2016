@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding mathematical statistics,
   lecture 5 prediction.
-file: /ol-ocw-studio-app/courses/18-655-mathematical-statistics-spring-2016/51a26b97418eb580363b733ee2b6da25_MIT18_655S16_LecNote5.pdf
+file: /courses/18-655-mathematical-statistics-spring-2016/51a26b97418eb580363b733ee2b6da25_MIT18_655S16_LecNote5.pdf
 file_size: 572146
 file_type: application/pdf
 learning_resource_types:
