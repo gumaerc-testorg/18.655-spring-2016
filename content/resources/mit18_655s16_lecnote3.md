@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding mathematical statistics,
   lecture 3 Bayesian models.
-file: /courses/18-655-mathematical-statistics-spring-2016/9c7b5d5cfb5ad8127c4b9c1a0442f29b_MIT18_655S16_LecNote3.pdf
+file: /ol-ocw-studio-app/courses/18-655-mathematical-statistics-spring-2016/9c7b5d5cfb5ad8127c4b9c1a0442f29b_MIT18_655S16_LecNote3.pdf
 file_size: 448542
 file_type: application/pdf
 learning_resource_types:
