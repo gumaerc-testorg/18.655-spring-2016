@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding mathematical statistics,
   assignment 1.
-file: /courses/18-655-mathematical-statistics-spring-2016/b47412718c7d216ccded16b89ff664cd_MIT18_655S16_ProblemSet_1.pdf
+file: /ol-ocw-studio-app/courses/18-655-mathematical-statistics-spring-2016/b47412718c7d216ccded16b89ff664cd_MIT18_655S16_ProblemSet_1.pdf
 file_size: 142069
 file_type: application/pdf
 learning_resource_types:
