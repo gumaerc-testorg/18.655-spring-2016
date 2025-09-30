@@ -27,14 +27,14 @@ This course provides students with decision theory, estimation, confidence inter
 Textbook
 --------
 
-Bickel, Peter J., and Kjell A. Doksum. _Mathematical Statistics: Basic Ideas and Selected Topics, Volume 1_. 2nd edition. Chapman and Hall / CRC, 2015. ISBN: 9781498723800. \[Preview with [Google Books](http://books.google.com/books?id=y5i9BwAAQBAJ&pg=PAfrontcover)\]
+Bickel, Peter J., and Kjell A. Doksum. _Mathematical Statistics: Basic Ideas and Selected Topics, Volume 1_. 2nd edition. Chapman and Hall / CRC, 2015. ISBN: 9781498723800. \[Preview with {{% resource_link "8ee940d0-0251-4dc6-a270-2dad5035e26c" "Google Books" %}}\]
 
 Useful References
 -----------------
 
 Berger, J. _Statistical Decision Theory and Bayesian Analysis (Springer Series in Statistics)_. 2nd edition. Springer, 1993. ISBN: 9783540960980.
 
-Cox, D. R., and D. V. Hinkley. _Theoretical Statistics_. Chapman and Hall / CRC, 1974. ISBN: 9780412161605. \[Preview with [Google Books](http://books.google.com/books?id=ppoujo-BInsC&pg=PAfrontcover)\]
+Cox, D. R., and D. V. Hinkley. _Theoretical Statistics_. Chapman and Hall / CRC, 1974. ISBN: 9780412161605. \[Preview with {{% resource_link "bef0670e-05bb-4085-b0d5-9932b4ce87c6" "Google Books" %}}\]
 
 Ferguson, T. J. _Mathematical Statistics: A Decision Theoretic Approach_. Academic Press, 1967. ISBN: 9781483207803.
 
@@ -46,7 +46,7 @@ Lehmann, E. L. _Theory of Point Estimation_. John Wiley & Sons Inc., 1983. ISBN:
 
 Lehmann, E. L., and G. Casella. _Theory of Point Estimation_. 2nd edition. Springer, 2003. ISBN: 9780387985022.
 
-Savage, L. J. _The Foundations of Statistics_. Dover Publications, 1972. ISBN: 9780486623498. \[Preview with [Google Books](http://books.google.com/books?id=zSv6dBWneMEC&pg=PAfrontcover)\]
+Savage, L. J. _The Foundations of Statistics_. Dover Publications, 1972. ISBN: 9780486623498. \[Preview with {{% resource_link "0efdb463-5a41-4a5a-900b-b3f1b909e7d8" "Google Books" %}}\]
 
 Homework
 --------
